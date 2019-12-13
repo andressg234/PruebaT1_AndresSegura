@@ -1,0 +1,54 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.header{
+	-fx-background-image: url("../../view.assets/sky.jpeg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.footer{
+	-fx-background-color: #FEAF00;
+}
+
+.imgLogin{
+	-fx-background-radius: 50;
+}
+
+.btnLogin{
+	-fx-background-color: #FEAF00;
+}
+
+.btnLogin:hover{
+	-fx-background-color: #FDCB72;
+}
+
+.btnExit{
+	-fx-background-radius: 50;
+	-fx-font-size: 15;
+	-fx-background-color: white;
+}
+
+.sistemaSolar {
+	-fx-background-image: url('../../view.assets/sistemaSolar.jpg');
+}
+
+.jupiter {
+	-fx-background-image: url('../../view.assets/jupiter.jpg');
+}
+
+.saturno {
+	-fx-background-image: url('../../view.assets/saturno.jpg');
+}
+
+.urano {
+	-fx-background-image: url('../../view.assets/urano.jpg');
+}
+
+.insta {
+	-fx-background-image: url('../../view.assets/insta.png');
+}
+
+.twitter {
+	-fx-background-image: url('../../view.assets/twitter.png');
+}
